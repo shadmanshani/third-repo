@@ -1,0 +1,19 @@
+div{
+    background-color: rgb(214, 228, 18);
+    border: 40px solid rgb(97, 5, 5);
+    width: 50%;
+    height: 100%;
+    margin: 0 auto;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    color: red;
+    font-size: 1em;
+    text-align: justify;
+}
+h1{
+    color: blue;
+    text-align: center;
+}
+
