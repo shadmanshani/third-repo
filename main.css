@@ -16,4 +16,10 @@ h1{
     color: blue;
     text-align: center;
 }
-
+span{
+    display: block;
+    
+    color: white;
+    background-color: black;
+    width: 80%;
+}
